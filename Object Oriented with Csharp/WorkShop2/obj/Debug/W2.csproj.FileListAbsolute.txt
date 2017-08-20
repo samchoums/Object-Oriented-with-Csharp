@@ -1,0 +1,12 @@
+C:\Users\samch\OneDrive\文档\Visual Studio 2015\Projects\Objectoriented\WorkShop2\bin\Debug\WorkShop2.exe.config
+C:\Users\samch\OneDrive\文档\Visual Studio 2015\Projects\Objectoriented\WorkShop2\bin\Debug\WorkShop2.exe
+C:\Users\samch\OneDrive\文档\Visual Studio 2015\Projects\Objectoriented\WorkShop2\bin\Debug\WorkShop2.pdb
+C:\Users\samch\OneDrive\文档\Visual Studio 2015\Projects\Objectoriented\WorkShop2\obj\Debug\WorkShop2.exe
+C:\Users\samch\OneDrive\文档\Visual Studio 2015\Projects\Objectoriented\WorkShop2\obj\Debug\WorkShop2.pdb
+C:\Users\samch\OneDrive\文档\Visual Studio 2015\Projects\Objectoriented\WorkShop2\obj\Debug\W2.csprojResolveAssemblyReference.cache
+C:\Users\samch\OneDrive\文档\Visual Studio 2015\Projects\Object Oriented with C#\WorkShop2\bin\Debug\WorkShop2.exe.config
+C:\Users\samch\OneDrive\文档\Visual Studio 2015\Projects\Object Oriented with C#\WorkShop2\obj\Debug\WorkShop2.exe
+C:\Users\samch\OneDrive\文档\Visual Studio 2015\Projects\Object Oriented with C#\WorkShop2\obj\Debug\WorkShop2.pdb
+C:\Users\samch\OneDrive\文档\Visual Studio 2015\Projects\Object Oriented with Csharp\WorkShop2\bin\Debug\WorkShop2.exe.config
+C:\Users\samch\OneDrive\文档\Visual Studio 2015\Projects\Object Oriented with Csharp\WorkShop2\obj\Debug\WorkShop2.exe
+C:\Users\samch\OneDrive\文档\Visual Studio 2015\Projects\Object Oriented with Csharp\WorkShop2\obj\Debug\WorkShop2.pdb

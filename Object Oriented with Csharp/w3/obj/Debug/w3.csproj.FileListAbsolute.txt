@@ -1,0 +1,8 @@
+C:\Users\samch\OneDrive\文档\Visual Studio 2015\Projects\Objectoriented\w3\bin\Debug\w3.exe.config
+C:\Users\samch\OneDrive\文档\Visual Studio 2015\Projects\Objectoriented\w3\bin\Debug\w3.exe
+C:\Users\samch\OneDrive\文档\Visual Studio 2015\Projects\Objectoriented\w3\bin\Debug\w3.pdb
+C:\Users\samch\OneDrive\文档\Visual Studio 2015\Projects\Objectoriented\w3\obj\Debug\w3.exe
+C:\Users\samch\OneDrive\文档\Visual Studio 2015\Projects\Objectoriented\w3\obj\Debug\w3.pdb
+C:\Users\samch\OneDrive\文档\Visual Studio 2015\Projects\Objectoriented\w3\obj\Debug\w3.csprojResolveAssemblyReference.cache
+C:\Users\samch\OneDrive\文档\Visual Studio 2015\Projects\Objectoriented\w3\bin\Debug\workshop3.dll
+C:\Users\samch\OneDrive\文档\Visual Studio 2015\Projects\Objectoriented\w3\bin\Debug\workshop3.pdb
